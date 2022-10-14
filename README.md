@@ -1,4 +1,4 @@
-![MoVoicesThumbnail](https://user-images.githubusercontent.com/55517452/195744133-c403fb62-0679-4f6d-9e94-11e876dacef8.png)
+![MoVoicesThumbnail](https://user-images.githubusercontent.com/55517452/195745889-acee2d88-b06f-45f5-8cc6-fb3556941f55.png)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Krevace/ow-mo-voices-mod?style=for-the-badge&color=02a68c)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Krevace/ow-mo-voices-mod?label=last%20release&style=for-the-badge&color=02a68c)
