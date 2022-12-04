@@ -7,7 +7,7 @@
 
 # Outer Wilds Mo' Voices Addon
 
-This mod is an addon to the [Outer Wilds Voice Acting Mod](https://github.com/Krevace/ow-voice-mod) that revoices 11 characters. Just like the original mod, the files are unmixed and don't represent the final version. 
+This mod is an unofficial addon to the [Outer Wilds Voice Acting Mod](https://github.com/Krevace/ow-voice-mod) that revoices 11 characters. Just like the original mod, the files are unmixed and don't represent the final version. 
 
 ## Credits
 
