@@ -3,7 +3,7 @@
     "author": "Krevace",
     "name": "Alternate Voices",
     "uniqueName": "Krevace.MoVoicesMod",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "owmlVersion": "2.8.0",
     "dependencies": [ "Krevace.VoiceMod" ]
 }
