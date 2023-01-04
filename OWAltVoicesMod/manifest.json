@@ -1,9 +1,9 @@
 {
-    "filename": "OWMoVoicesMod.dll",
+    "filename": "OWAltVoicesMod.dll",
     "author": "Krevace",
     "name": "Alternate Voices",
     "uniqueName": "Krevace.MoVoicesMod",
     "version": "0.1.2",
-    "owmlVersion": "2.8.0",
+    "owmlVersion": "2.9.0",
     "dependencies": [ "Krevace.VoiceMod" ]
 }
